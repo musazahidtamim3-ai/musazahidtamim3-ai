@@ -67,6 +67,6 @@ I am a dedicated MERN stack developer who loves turning complex problems into si
   </a>
 </p>
 
-## 📊 GitHub Stats
+## 💻 Most Used Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musazahidtamim3-ai&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musazahidtamim3-ai&layout=compact&theme=tokyonight)
